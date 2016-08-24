@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-## 🍃 一个node.js和java实现前后分离的---java端RESTFULL风格项目实例
-=======
 ## 🌲 一个node.js和java实现前后分离的---java端RESTFULL风格项目实例
->>>>>>> parent of ac26b4a... init repository
 - 使用jerseyAPI+Spring控制事物 后期打算加入shiro
 - 什么是giture/项目架构
 ```
