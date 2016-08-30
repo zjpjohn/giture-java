@@ -1,5 +1,4 @@
-
-## 🌲 一个node.js和java实现前后分离的---java端RESTFULL风格项目实例
+###jersey书写java正统REST API 后台接口
 - 使用jerseyAPI+Spring控制事物 后期打算加入shiro
 - 什么是giture/项目架构
 ```
@@ -11,3 +10,8 @@ giture 是我打算搭建的一个多人博客、论坛github风格系统,思量
 日志库:MongoDB      日志数据量可能较大,因为node和mongod是绝配所以还是mongod了
 python:爬虫+自动化   python语言运用不太熟练,再有实在服务器上运行的,以后会写
 ```
+
+###联系方式
+
+- 关注微博：  [庄小达哒哒](http://www.weibo.com/5939264503/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1 "庄小达哒哒")
+- 邮    箱：  pkwenda@163.com
