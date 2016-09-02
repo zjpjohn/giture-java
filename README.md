@@ -11,6 +11,8 @@ giture 是我打算搭建的一个多人博客、论坛github风格系统,思量
 python:爬虫+自动化   python语言运用不太熟练,再有实在服务器上运行的,以后会写
 ```
 
+- 本周末任务:搭建mybatis环境  搭建AWS云服务器
+
 ###联系方式
 
 - 关注微博：  [庄小达哒哒](http://www.weibo.com/5939264503/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1 "庄小达哒哒")
